@@ -82,16 +82,17 @@
     width: 16px;
     height:16px;
     position: relative;
+    left : 20px;
 }
 
-.VectorArrow{
+/* .VectorArrow{
     width: 10px; 
     height: 10px; 
     left: 3px; 
     top: 3px; 
     position: absolute; 
     background: white;
-}
+} */
 
 .RegisterHere{
     width: 200px; 
@@ -152,36 +153,39 @@ word-wrap: break-word
     top: 0px; 
     position: absolute; 
     background: #F8F8F8; 
-    border-radius: 8px
+    border-radius: 8px;
+    padding-left: 60px;
+    
 }
+
+
 
 .SecurityShield{
     width: 32px; 
-    height: 
-    31.89px; 
+    height:31.89px; 
     left: 24px; 
     top: 11.96px; 
     position: absolute; 
     
-
 }
+
 
 .MdiEyeOff{
     width: 24px; 
     height: 23.92px; 
-    left: 422px; 
+    left: 490px; 
     top: 15.94px; 
     position: absolute;
 }
 
-.VectorEye{
+/* .VectorEye{
     width: 22px; 
     height: 18.93px; 
     left: 1px; 
     top: 2.99px; 
     position: absolute; 
     background: #B4B4B4;
-}
+} */
 
 .EmailGroup{
     width: 470px; 
@@ -338,7 +342,7 @@ word-wrap: break-word
 }
 
 .ForgotPassword{
-    left: 335px; 
+    left: 385px; 
     top: 395px; 
     position: relative; 
     color: #0D30AC; 
@@ -396,5 +400,3 @@ word-wrap: break-word
     top: 200px; 
     position: absolute;
 }
-
-
