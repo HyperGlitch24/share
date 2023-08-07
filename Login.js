@@ -1,6 +1,6 @@
 import classes from './Login.module.css';
-import FBimg from '../Images/Facebook.png';
-import Googleimg from '../Images/Google.png';
+// import FBimg from '../Images/Facebook.png';
+// import Googleimg from '../Images/Google.png';
 import Letter from '../Images/Secured Letter.png';
 import Lock from '../Images/Security Shield Green.png';
 import People from '../Images/people.png';
@@ -58,7 +58,7 @@ function Login(){
       </div>
     </div>
   </div>
-  <div className={classes.OtherLoginGroup} >
+  {/* <div className={classes.OtherLoginGroup} >
     <div className={classes.OrFrame} >
       <div className={classes.Line} ></div>
       <div className={classes.Or} >Or</div>
@@ -74,7 +74,7 @@ function Login(){
         <div className={classes.Google}>Google</div>
       </button>
     </div>
-  </div>
+  </div> */}
 </div>
 
 
